@@ -1,0 +1,21 @@
+.text1:hover {
+    color: brown;
+    font-family: Corbel;
+    font-size: 200%;
+
+}
+
+#text2 {
+    position: absolute;
+    color: navy;
+}
+.ph:visited {
+    font-family: inherit;
+    font-size: 300%;
+}
+.lnk:link {
+    font-size: 300%;
+}
+.lnk2:active {
+    font-size: 500%;
+}
