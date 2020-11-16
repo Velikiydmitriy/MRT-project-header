@@ -3,32 +3,5 @@
 }
 
 .line-header2 {
-    background-image: image("img/background-header2");
-}
-
-
-
-.text1:hover {
-    color: brown;
-    font-family: Corbel;
-    font-size: 200%;
-
-}
-
-#text2 {
-    position: absolute;
-    color: navy;
-}
-
-.ph:visited {
-    font-family: inherit;
-    font-size: 300%;
-}
-
-.lnk:link {
-    font-size: 300%;
-}
-
-.lnk2:active {
-    font-size: 500%;
+    background-image: image("img/background-header2"); /* строка index.html №50 - картинка с доктором не подключается, в чем причина? */
 }
